@@ -1,2 +1,13 @@
 # udacity_repo
-udacity mlops chapter3 working independely exercise
+these are git commands am familiar with
+
+git clone
+git status
+git add
+git commit
+git branch
+git checkout
+git merge
+git push
+git pull
+git log
